@@ -1,4 +1,4 @@
-# Fasping-method_at_ECMAScript2022
+#Method_at_ECMAScript2022
 Many programming languages like Python, Ruby, etc have the ability to do ‘negative indexing’ arr[-1]. It means we can access the elements of the array from the end by specifying the negative index.
 
 Unfortunately, this feature was missing in JavaScript. The JavaScript design made it difficult to support this feature. The [] syntax is used for accessing array and object.
